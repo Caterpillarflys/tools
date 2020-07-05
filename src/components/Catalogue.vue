@@ -86,7 +86,7 @@ export default {
     position: absolute;
 }
 .content{
-    width: 1166px;
+    width: 1280px;
     position: absolute;
     left: 300px;
     top: 210px;
@@ -102,25 +102,25 @@ export default {
    height: 547px;
 }
 .content_left_scroll>div,.content_right_scroll>div{
-    width: 394px;
+    width: 500px;
     height: 18px;
     cursor: pointer;
     padding: 10px 0;
     border-top: 1px solid #ccc;
 }
 .border_common{
-    width: 394px;
+    width: 500px;
     height: 2px;
     background: #ccc;
 }
 .border_top{
-    width: 394px;
+    width: 500px;
     height: 1px;
     background: #ccc;
     margin: 2px 0 1px 0;
 }
 .border_bottom{
-    width: 394px;
+    width: 500px;
     height: 1px;
     background: #ccc;
     margin: 1px 0 2px 0;
